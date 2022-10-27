@@ -1,2 +1,2 @@
 # Menusupo
-(Taiwan's Menu support app)
+(Taiwan's restaurant Menu support app)
